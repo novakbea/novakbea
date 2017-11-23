@@ -13,3 +13,4 @@ kiegészítő (Font Awesome, Google Fonts, social ikonok)
 eszköz (JS Bin, Brackets, Imgur, DropBox)
 
 Live Version
+https://github.com/novakbea/novakbea.git
